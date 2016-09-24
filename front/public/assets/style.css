@@ -1,0 +1,32 @@
+.form {
+    text-align: center;
+    margin-top: 30px;
+}
+
+.form input {
+  padding: 5px;
+}
+
+h2 {
+  text-align: center;
+}
+
+.navbar-header {
+  width: 100%;
+}
+
+#log-out {
+  margin: 10px;
+}
+
+table {
+  margin: auto;
+}
+
+th, td {
+  padding: 5px;
+}
+
+.edit-button {
+  margin-right: 5px;
+}
